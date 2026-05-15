@@ -1,10 +1,10 @@
 Name: Meral Azeem
 
-Roll Number: 22-CS-45
+Roll Number: f2024105088
 
-Favorite Programming Language: JavaScript
+Favorite Programming Language: Python
 
-Future Goal: Become a Web Developer
+Future Goal: Become IT specialist
 
 
 
